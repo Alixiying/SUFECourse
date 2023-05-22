@@ -228,7 +228,7 @@ https://github.com/bamos/densenet.pytorch.git
 # Citations
 
 ```
-@misc{densenetCookBook,
+@misc{densenetCookbook,
   title = {{the final presentaion of the Big Data Mining in SUFE}},
   author = {Siying.Xu},
   howpublished = {\url{https://github.com/Alixiying/SUFECourse}},
