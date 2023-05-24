@@ -616,7 +616,7 @@ if __name__=='__main__':
 
 Error: 5.98%
 
-<video controls="" autoplay="" name="media"><source src="train.mp4" type="video/mp4"></video>
+<iframe height=720 width=1280 src="train.mp4">
 
 ![](./sgd-loss-error.png)
 
@@ -636,6 +636,7 @@ https://github.com/messileo1/MobileNet_GhostNet_DenseNet_ResNet_Vgg_Yolov4.git
 # Reference
 
 https://github.com/messileo1/MobileNet_GhostNet_DenseNet_ResNet_Vgg_Yolov4.git
+
 https://github.com/bamos/densenet.pytorch.git
 
 # Citations
